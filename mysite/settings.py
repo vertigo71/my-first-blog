@@ -25,7 +25,7 @@ SECRET_KEY = 'l(njnih=2az&$vyh==xf+#p)wq$j46+tt_c)pa3idbg5w3+3=g'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [vertigo.pythonanywhere.com]
 
 
 # Application definition
